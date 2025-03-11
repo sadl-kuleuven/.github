@@ -1,4 +1,5 @@
-## Hi there 👋
+SADL is a long standing cooperative initiative of several research groups of the Department of Earth & Environmental Sciences of KU Leuven. The overall topic is the Geographic Information Science and Technologies (GI S&T) and their applications for physical land management and socio-economic assessments
+
 
 <!--
 
